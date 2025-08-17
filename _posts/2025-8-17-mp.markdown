@@ -15,7 +15,7 @@ tags:
 
 ---
 
-![我的头像]([bear.jpg](https://github.com/YuiChibi/YuiChibi.github.io/blob/master/_posts/bear2.jpg?raw=true))
+![熊二](https://raw.githubusercontent.com/YuiChibi/YuiChibi.github.io/refs/heads/master/_posts/bear2.jpg)
 
 ## 🔥 关于我
 - 初三在读，正在努力学习编程与英语  
