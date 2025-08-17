@@ -15,7 +15,8 @@ tags:
 
 ---
 
-![我的头像](bear.jpg)
+![我的头像]([bear.jpg](https://github.com/YuiChibi/YuiChibi.github.io/blob/master/_posts/bear2.jpg?raw=true))
+
 ## 🔥 关于我
 - 初三在读，正在努力学习编程与英语  
 - 目标进入 **Rockstar / Capcom / 米哈游** 等游戏公司  
