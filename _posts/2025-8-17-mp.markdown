@@ -1,0 +1,54 @@
+---
+layout: post
+title: "做个自我介绍"
+author: "Gil"
+header-style: text
+catalog: true
+tags:
+  - Web
+  - Javascript
+---
+
+># 👋 Hi, I'm Gil Parker
+
+🎮 独立游戏开发爱好者 | 🌍 未来想去 USC 深造 | 💻 热爱编程与设计  
+
+---
+
+## 🔥 About Me
+- 初三在读，正在努力学习编程与英语  
+- 目标进入 **Rockstar / Capcom / 米哈游** 等游戏公司  
+- 喜欢虚幻引擎 (UE)，目前主要使用蓝图，逐步过渡到 C++  
+- 兴趣：独立游戏开发、日语、吉他  
+
+---
+
+## 🛠️ Skills
+- **Languages:** C++ (入门), Java (学习中), Python (基础), 日本語 (N3-N2)  
+- **Engines:** Unreal Engine (Blueprint), Unity (基础)  
+- **Tools:** Blender (建模入门), Git, GitHub Pages  
+
+---
+
+## 🎨 Projects
+- 🍳 **厨房大战 (Kitchen Wars)**  
+  独立设计的 roguelike 风格小游戏，灵感来自《土豆兄弟》。  
+
+- 🔗 **Portal Clone**  
+  使用虚幻引擎蓝图复刻《传送门1》的练习项目。  
+
+---
+
+## 📖 Blog
+- [UE 蓝图学习笔记](#)  
+- [日语学习进度](#)  
+- [独立游戏开发日志](#)  
+
+---
+
+## 📬 Contact
+- GitHub: [Parker-Gil](https://github.com/)  
+- Email: yourname@example.com  
+
+---
+⭐️ *“我坚信自己一定会成功，并充满力量去实现梦想。”*
